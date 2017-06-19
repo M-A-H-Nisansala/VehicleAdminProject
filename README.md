@@ -10,7 +10,7 @@ Client Portal:- (https://vehicle-selling-app-de.herokuapp.com/client)
 
 
 ## Admin Vehicle
- [Demo](https://vehicle-selling-app-de.herokuapp.com/) 
+(https://vehicle-selling-app-de.herokuapp.com/) 
 username : Admin
 password: admin 
 

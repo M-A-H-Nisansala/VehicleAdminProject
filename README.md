@@ -1,23 +1,18 @@
-# VehicleAdmin
+###### Vehicle Selling Application #########
 
-A simple vehicle selling application. [Demo](https://vehicle-demo-para.herokuapp.com/)
+Here This Vehicle selling application has two types of login panels. One is for admin and other is for client.
+For Admin :- Provide facility to search, insert, delete, and update vehicles .
+For Client :- Provide facility to search and view details of the available vehicles.
 
-Admins should be able to insert, update, delete, search vehicles
-
-Anyone should be able to search and view details of vehicles. [ClientPotral](https://vehicle-demo-para.herokuapp.com/client)
-
-A login should be there for Admins.
-It Contain two (microservice) component:
-1. Admin Backend (Server - node, expressjs and Mongodb).
-2. Admin Frontend (Angular 2)
+Admin portal:- (https://vehicle-selling-app-de.herokuapp.com/) 
+Client Portal:- (https://vehicle-selling-app-de.herokuapp.com/client)
+ 
 
 
 ## Admin Vehicle
- [Demo](https://vehicle-demo-para.herokuapp.com/)
- ```
+ [Demo](https://vehicle-selling-app-de.herokuapp.com/) 
 username : Admin
-password: admin
-```
+password: admin 
 
 ## Admin Backend
 ### Run local Mode:
@@ -41,7 +36,7 @@ Push to Server:
 git push heroku master
 
 Access Api:
-https://vehicle-demo-para1.herokuapp.com/
+https://vehicle-selling-app-de.herokuapp.com/
 ```
 
 Api Documents:
@@ -67,6 +62,6 @@ Push to Server:
 git push heroku master
 
 Access:
-https://vehicle-demo-para.herokuapp.com/
+https://vehicle-selling-app-de.herokuapp.com/
 ```
 
